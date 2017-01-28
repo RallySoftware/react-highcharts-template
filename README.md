@@ -1,2 +1,3 @@
-# example-reactjs
-Boilerplate for a NodeJS React project
+# react-highchart-template
+Boilerplate project code for React-based Highcharts components
+
